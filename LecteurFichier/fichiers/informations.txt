@@ -1,0 +1,2 @@
+Nom du fichier : informations.txt
+Test ligne 2 pour inversion
